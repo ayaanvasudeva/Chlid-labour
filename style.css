@@ -36,7 +36,7 @@ p{
     font-family: 'Open Sans', sans-serif;
 }
 p.lead{
-    font-size: 16px;
+    font-size: 25px;
     margin: 12px 0 0;
     line-height: 24px;
     font-family: 'Open Sans', sans-serif;
@@ -599,5 +599,9 @@ a.fa.fa-angle-down:hover{
     transition: 500ms;
 }
 .title{
- font-size: 50px;
+ font-size: 70px;
+}
+img{
+    padding: 5%;
+    margin: 80px;
 }
