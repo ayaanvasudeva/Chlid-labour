@@ -605,3 +605,6 @@ img{
     padding: 5%;
     margin: 80px;
 }
+.right{
+    float: right;
+}
