@@ -602,9 +602,18 @@ a.fa.fa-angle-down:hover{
  font-size: 70px;
 }
 img{
-    padding: 5%;
+    padding: 1%;
     margin: 80px;
 }
-.right{
-    float: right;
+.three{
+    width: 500px;
+}
+.paddingT{
+    padidng-top: 170px;
+    padding-bottom: 100px;
+    
+}
+.paddingB{
+    padding-bottom: 100px;
+    padding-bottom: 170px;
 }
